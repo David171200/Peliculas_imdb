@@ -1,0 +1,33 @@
+body{
+background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/21omxpw.jpg);
+
+}
+.pelicula_card_overview{
+    height: 150px;
+    overflow: hidden;
+}
+
+.card img{
+    height: 350px;
+    background-size: cover;
+
+}
+.card-text{
+  overflow: hidden;
+  color: white;
+}
+.card-body{
+    background-color:#636e72;
+    color: white;
+}
+.boton_atras{
+   background-color:  #ED4C67;
+   color:#636e72;
+}
+.boton_info{
+  background-color:  #ED4C67;
+  color:black;
+}
+#listado_peliculas{
+  color: white;
+}
